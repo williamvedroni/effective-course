@@ -12,12 +12,13 @@ Tecnologias usadas:
 
 Baixe os fontes do projeto e execute:
 
+
+```
 mvn clean install
 ```
 
 ```
 mvn spring-boot:run
 ```
-
 
 Em seguida acesse em http://localhost:8080
